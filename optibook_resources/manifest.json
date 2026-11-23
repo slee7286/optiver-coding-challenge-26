@@ -1,0 +1,42 @@
+[
+  {
+    "path": "ALL_TEXT.md",
+    "bytes": 26751,
+    "sha256": "db1831f9c5c5c5af94917f70d3b464e748d424e6f3dce2fb392c8cb8ec543d20"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1414,
+    "sha256": "5289715bc54e58a7bd007e274a99071f830782bb63773b1ee9b1f9ec3d38c18b"
+  },
+  {
+    "path": "images/image(1).webp",
+    "bytes": 155476,
+    "sha256": "87e11be6d0974fd3224c159dcc37fc542c4e8975c491c6ff26c65fc5407a3393"
+  },
+  {
+    "path": "images/image(2).webp",
+    "bytes": 149118,
+    "sha256": "2c98db86ee10b00773ae43dba895be3b76a534be8174fe15c0a4073746ed64f7"
+  },
+  {
+    "path": "images/image(3).webp",
+    "bytes": 165382,
+    "sha256": "540d98bca3b889c0dff7ef4f505ba5b876b07772077315346d1356822154fa82"
+  },
+  {
+    "path": "images/image.webp",
+    "bytes": 70532,
+    "sha256": "22f8f65f659c365916a68a83c4654cdd9f5c3842a5aa8e0ec58af0dcf5c95626"
+  },
+  {
+    "path": "text/api_reference.txt",
+    "bytes": 21498,
+    "sha256": "9989b714197e77a134ba496eaedd2a4505fa3cba3d106d09f86b61ece2529d49"
+  },
+  {
+    "path": "text/setup_faq_overview.md",
+    "bytes": 5062,
+    "sha256": "f9106f65081441b258a669bf829bb5bdfbbeafb10132c07112bc238722bf48a4"
+  }
+]
