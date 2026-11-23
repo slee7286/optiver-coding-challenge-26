@@ -1,0 +1,6 @@
+ts_ms,instrument,bid,ask,bid_size,ask_size
+0,NVDA,100,101,99,1
+1000,NVDA,103,104,10,10
+2000,NVDA,104,105,1,99
+3000,NVDA,100,101,10,10
+4000,NVDA,100,101,10,10
